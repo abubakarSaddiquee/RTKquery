@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "json-server 3",
+      "author": "typicode 3"
+    },
+    {
+      "name": "Abubakar",
+      "author": "Saddiq",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "json-server 3",
+      "author": "typicode 3"
+    }
+  ]
+}
